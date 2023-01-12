@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romanlaughs
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in Javascript, Comedy, Movies and Parenting Advice!
 - 💞️ I’m looking to collaborate on something!
 - 📫 How to reach me? Email is best, Romanlaughs@gmail.com
