@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @romanlaughs
 - 👀 I’m interested in Javascript, Comedy, Movies and Parenting Advice!
-- 🌱 I’m currently learning Server Side concepts and React/Redux
-- 💞️ I’m looking to collaborate on something when I'm a bit more educated.
+- 💞️ I’m looking to collaborate on something!
 - 📫 How to reach me? Email is best, Romanlaughs@gmail.com
 
 <!---
